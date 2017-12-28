@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="xpp-shopping:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="xpp-shopping.war">
+      <element id="artifact" artifact-name="xpp-shopping:war exploded" />
+    </root>
+  </artifact>
+</component>
